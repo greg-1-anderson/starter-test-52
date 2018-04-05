@@ -1,6 +1,6 @@
-# Contributing to ExampleProject
+# Contributing to StarterTest52
 
-Thank you for your interest in contributing to ExampleProject! Here are some of the guidelines you should follow to make the most of your efforts:
+Thank you for your interest in contributing to StarterTest52! Here are some of the guidelines you should follow to make the most of your efforts:
 
 ## Code Style Guidelines
 
